@@ -8,9 +8,9 @@
 This repo is working joking. Please feel free to contact with author.
 
 
-> @inproceedings{todo,
-  title={Sparseformer: dense point cloud reconstruction from sparsely sampled points based on transformer architecture},
-  author={T.R, et.al},
-  journal={Todo},
-  year={2021}
+> @inproceedings{todo,<br>
+  title={Sparseformer: dense point cloud reconstruction from sparsely sampled points based on transformer architecture}, <br>
+  author={T.R, et.al},<br>
+  journal={Todo},<br>
+  year={2021}<br>
 }
